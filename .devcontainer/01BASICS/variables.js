@@ -6,7 +6,7 @@ accountCity="Jaipur"
 /*
 prefer not to use var 
 because of issue in block scope and functional scope
-let has block scope problem
+var has block scope problem
 because of issue in loop and if else block
 
 const has no scope problem
