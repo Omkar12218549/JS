@@ -16,5 +16,6 @@ console.log(8+9+"om"+23+12); console.log("hello omkar");//code readibility is vi
 
 console.log(typeof null);//object
 console.log(typeof undefined);//undefined
+console.log(typeof Symbol);
 
 

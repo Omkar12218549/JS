@@ -36,7 +36,7 @@ let negval=-val;
 // console.log(2*2);
 // console.log(2/2);
 // console.log(2**2);
-// console.log(2%6);
+console.log(2%6);
 
 let str1="hello";
 let str2="world";
