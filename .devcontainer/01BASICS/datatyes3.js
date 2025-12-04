@@ -66,5 +66,5 @@ let userTwo=userOne
 userTwo.email="user@gmail.com"
 userTwo.upi="user2UPI"
 
-console.log(userOne)
+console.log(userOne)// main value changed to updated one
 console.log(userTwo)
