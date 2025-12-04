@@ -16,10 +16,10 @@ let b=10;
 
 // console.log(null==undefined);//true
 
-// console.log(null>0);
-// console.log(null>=0);
-// console.log(null==0);
+console.log(null>0);
+console.log(null>=0);
+console.log(null===0);
 
-console.log(undefined>=0);
-console.log(undefined<0);
-console.log(undefined==0);
+// console.log(undefined>=0);
+// console.log(undefined<0);
+// console.log(undefined==0);

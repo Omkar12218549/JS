@@ -36,7 +36,7 @@ let negval=-val;
 // console.log(2*2);
 // console.log(2/2);
 // console.log(2**2);
-console.log(2%6);
+// console.log(2%6);
 
 let str1="hello";
 let str2="world";
@@ -59,9 +59,9 @@ let str3=str1+" "+str2;
 // gamePoint++;
 // console.log(gamePoint);//101
 
-// let x=100;
-// let y=x++;
-// console.log(x);//101
+let x=100;
+let y=x++;
+console.log(x);//101
 // console.log(y);//100
 
 // let a=1;
