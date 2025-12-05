@@ -2,7 +2,7 @@
 //alert("hello omkar"). The error occurs because alert is not available in Node.js (it's a browser function). To fix the error, replace
 
 console.log(8+9+"om"+23+12);
- console.log("hello omkar");//code readibility is violeted
+//  console.log("hello omkar");//code readibility is violeted
 
 
 //primitives datatypes
@@ -23,7 +23,7 @@ console.log(8+9+"om"+23+12);
 
 const id=Symbol('123')
 const anotherid=Symbol('123')
-console.log(id === anotherid)
+// console.log(id === anotherid)
 
 
 //non-primitve (reference type) Array,Object,Function
