@@ -6,7 +6,7 @@ const balance=new Number(1000)
 // console.log(balance.toString().length);//4
 // console.log(typeof balance)//object
 // console.log(balance.toFixed(2))//1000.00
-// const anotherNUM=123.8966//
+// const anotherNUM=128.9766//
 // console.log(anotherNUM.toPrecision(4))//123.9
 // console.log(anotherNUM.toPrecision(3))//124
 
