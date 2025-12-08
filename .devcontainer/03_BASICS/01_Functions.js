@@ -60,7 +60,7 @@ function loginUserMessage(username="OM"){//setting default value if any value do
 // console.log(loginUserMessage("AKASHHSH̤"));//AKASHHSH̤ just looged in
 
 
-//shopping card user just keep on adding do not no how much argunment is passed
+//shopping card user just keep on adding do not know how much argunment is passed
 
 // function calculateCartPrice(...num1){//rest operator acc to use case
 //     return num1
