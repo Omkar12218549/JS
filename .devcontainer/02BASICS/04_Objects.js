@@ -59,7 +59,21 @@ const user=[
 // console.log(Object.keys(tinderUser))//[ 'id', 'name', 'IsloogedIn' ]. in form of array
 // console.log(Object.values(tinderUser))//[ '123abc', 'sammay', false ]. in form of array
 // console.log(Object.entries(tinderUser))// get array inside array
-console.log(tinderUser.hasOwnProperty('IsloogedIn'))//true
+// console.log(tinderUser.hasOwnProperty('IsloogedIn'))//true
+
+const course={
+    coureseName:"Js in hindi",
+    price:"999",
+    CourseTeacher:"hitesh"
+
+}
+// console.log(course.CourseTeacher)//hitesh
+
+const {CourseTeacher}=course
+console.log(CourseTeacher)//hitesh
+
+const {CourseTeacher:Teacher}=course
+console.log(Teacher)//hitesh
 
 
 
